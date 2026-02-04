@@ -44,7 +44,7 @@ PyAudio>=0.2.13
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/overkillkulture/voice-command-system.git
+git clone https://github.com/overkor-tek/voice-command-system.git
 cd voice-command-system
 ```
 
@@ -193,7 +193,7 @@ voice-command-system/
 
 - **Main Platform:** [https://conciousnessrevolution.io](https://conciousnessrevolution.io)
 - **Bug Reports:** [https://conciousnessrevolution.io/bugs.html](https://conciousnessrevolution.io/bugs.html)
-- **GitHub:** [https://github.com/overkillkulture](https://github.com/overkillkulture)
+- **GitHub:** [https://github.com/overkor-tek](https://github.com/overkor-tek)
 
 ## Contributing
 
@@ -208,24 +208,4 @@ For bug reports, open an issue or use the bug report page at [https://conciousne
 
 ## License
 
-MIT License
-
-Copyright (c) 2025 Consciousness Revolution
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+MIT License -- see [LICENSE](LICENSE) file.
