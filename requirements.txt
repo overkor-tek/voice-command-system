@@ -1,0 +1,18 @@
+# Voice System Requirements
+# Consciousness Revolution - Voice Interface
+
+# Core speech recognition
+SpeechRecognition>=3.10.0
+
+# Text-to-speech
+pyttsx3>=2.90
+
+# Audio input/output (may need special install on Windows)
+# Windows: pip install pipwin && pipwin install pyaudio
+# Mac: brew install portaudio && pip install pyaudio
+# Linux: sudo apt-get install portaudio19-dev && pip install pyaudio
+PyAudio>=0.2.13
+
+# Optional: For analytics logging
+# If you want to track voice usage stats, uncomment these:
+# sqlite3 (built-in to Python)
